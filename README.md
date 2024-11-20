@@ -1,8 +1,9 @@
-# React + Vite
+# Gemini Model - Yachay Tech University
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+nota: se debe generar el archivo de node (npm install run) para las dependencias (se debe de crear node_modules)
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/b91d2fb2-6ef5-4951-a2c6-b990c1834335)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+luego desde el archivo 'gemimi' correr el servidor (npm run dev)
+
+![image](https://github.com/user-attachments/assets/cf984e09-cecf-48c7-8ac5-1a3825f96ccd)
